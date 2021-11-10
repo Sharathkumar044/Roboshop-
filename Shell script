@@ -12,8 +12,24 @@ our choice - BASH
 Resons why BASH:
 1. Bash is  default in RedHat family OS.
 2. BASH is having features of SH, KSH, CSH
+3. In RedHat family OS, SH and BASH are same.
+
 
 shell scripting file
+
+.sh --- for linux command file
+.bash ---- for particular script file
+
+the above extensions are only for understandning
+usavally we go for ".sh" to exicute scripts
+
+For exicute the shell script
+
+$ bash script.sh
+$ sh script.sh
+
+---------------------------------
+
 How to exicute shell script
 
 ''''
